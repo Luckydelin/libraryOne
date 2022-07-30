@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\x\Desktop\DirectX11-With-Windows-SDK-v1.37.1\DirectX11-With-Windows-SDK-master\Project 31-35\33 Tessellation\33 Tessellation(2022 Win10).exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\x\Desktop\DirectX11-With-Windows-SDK-v1.37.1\DirectX11-With-Windows-SDK-master\Project 31-35\33 Tessellation\HLSL\Tessellation_Isoline_HS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\x\Desktop\DirectX11-With-Windows-SDK-v1.37.1\DirectX11-With-Windows-SDK-master\Project 31-35\33 Tessellation\HLSL\Tessellation_Quad_DS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\x\Desktop\DirectX11-With-Windows-SDK-v1.37.1\DirectX11-With-Windows-SDK-master\Project 31-35\33 Tessellation\HLSL\Tessellation_Quad_Even_HS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\x\Desktop\DirectX11-With-Windows-SDK-v1.37.1\DirectX11-With-Windows-SDK-master\Project 31-35\33 Tessellation\HLSL\Tessellation_Quad_Integer_HS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\x\Desktop\DirectX11-With-Windows-SDK-v1.37.1\DirectX11-With-Windows-SDK-master\Project 31-35\33 Tessellation\HLSL\Tessellation_Quad_Odd_HS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\x\Desktop\DirectX11-With-Windows-SDK-v1.37.1\DirectX11-With-Windows-SDK-master\Project 31-35\33 Tessellation\HLSL\Tessellation_Transform_VS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\x\Desktop\DirectX11-With-Windows-SDK-v1.37.1\DirectX11-With-Windows-SDK-master\Project 31-35\33 Tessellation\HLSL\Tessellation_Triangle_DS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\x\Desktop\DirectX11-With-Windows-SDK-v1.37.1\DirectX11-With-Windows-SDK-master\Project 31-35\33 Tessellation\HLSL\Tessellation_Triangle_HS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\x\Desktop\DirectX11-With-Windows-SDK-v1.37.1\DirectX11-With-Windows-SDK-master\Project 31-35\33 Tessellation\HLSL\Tessellation_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\x\Desktop\DirectX11-With-Windows-SDK-v1.37.1\DirectX11-With-Windows-SDK-master\Project 31-35\33 Tessellation\HLSL\Tessellation_VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
